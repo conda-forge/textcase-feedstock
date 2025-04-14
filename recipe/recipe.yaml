@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: textcase
-  version: 0.2.1
+  version: "0.3.1"
 
 package:
   name: ${{ name|lower }}
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/textcase-${{ version }}.tar.gz
-  sha256: 12e1356b9f3844f62e5f30b2af5ba1890e5f958095856755b236c43995a19f98
+  sha256: 6814a6f05b787db6938aa80d04186cafc4795232db55bb60bbec60075ea49bae
 
 build:
   number: 0
