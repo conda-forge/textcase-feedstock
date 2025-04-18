@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/textcase-feedst
 
 Home: https://github.com/zobweyt/textcase
 
-Package license: GPL-3.0-only
+Package license: MIT
 
 Summary: A feature-rich Python text case conversion library.
 
